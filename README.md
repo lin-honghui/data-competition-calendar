@@ -1,7 +1,14 @@
 # data-competition-calendar
-[TOC]
+- [data-competition-calendar](#data-competition-calendar)
+  - [天池](#天池)
+  - [Kaggle](#kaggle)
+  - [Drivendata](#drivendata)
+  - [Biendata](#biendata)
+  - [DataCastle](#datacastle)
+  - [和鲸](#和鲸)
+  - [NIPS 2021](#nips-2021)
+  - [CVPR 2022 (TBD)](#cvpr-2022-tbd)
 
-# data-competition-calendar
 
 国内外数据竞赛资讯整理，持续更新中～
 
@@ -75,8 +82,32 @@
 
 
 
-## ICCV 2021
+## NIPS 2021
+
+|                         Competition                          | Date                    | Bonus |
+| :----------------------------------------------------------: | ----------------------- | ----- |
+| [Learning By Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality](http://learningbydoingcompetition.github.io/) | 2021.07.06 - 2021.09.26 | $6k   |
+| [NeurIPS 2021 BEETL Competition: Benchmarks for EEG Transfer Learning](https://beetl.ai/introduction) | 2021.07.09 - 2021.10.01 | -     |
+| [MetaDL: Few Shot Learning Competition with Novel Datasets from Practical Domains](https://metalearning.chalearn.org/) | 2021.08.02 - 2021.10.02 | $2k   |
+| [Visual Domain Adaptation Challenge](http://ai.bu.edu/visda-2021/) | 2021.06.23 - 2021.10.10 | $2k   |
+| [Traffic4cast 2021 – Temporal and Spatial Few-Shot Transfer Learning in Traffic Map Movie Forecasting](https://www.iarai.ac.at/traffic4cast/) | 2021.06.15 - 2021.10.14 | €2.8w |
+| [Diamond: A MineRL Competition on Training Sample-Efficient Agents](https://www.aicrowd.com/challenges/neurips-2021-minerl-competition) | 2021.06.09 - 2021.10.15 | -     |
+| [BASALT: A MineRL Competition on Solving Human-Judged Tasks](https://minerl.io/basalt/) | 2021.07.07 - 2021.10.15 | $1.1w |
+|    [The NetHack Challenge](https://nethackchallenge.com/)    | 2021.06.09 - 2021.10.15 | $2w   |
+| [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/) | 2021.07.01 - 2021.10.21 | -     |
+| [Billion-Scale Approximate Nearest Neighbor Search Challenge](http://big-ann-benchmarks.com/) | 2021.07.11 - 2021.10.22 | -     |
+| [IGLU: Interactive Grounded Language Understanding in a Collaborative Environment](https://www.iglu-contest.net/) | 2021.07.26 - 2021.10.22 | $1.4w |
+| [Image similarity challenge](https://sites.google.com/view/isc2021) | 2021.06.01 - 2021.10.27 | $20w  |
+| [HEAR 2021: Holistic Evaluation of Audio Representations](https://neuralaudio.ai/hear2021-holistic-evaluation-of-audio-representations.html) | 2021.05.10 - 2021.10.31 | -     |
+| [Shifts Challenge: Robustness and Uncertain­ty under Real-World Distributional Shift](https://research.yandex.com/shifts) | 2021.07.20 - 2021.10.31 | $9k   |
+| [Enhanced Zero-Resource Speech Challenge 2021](https://zerospeech.com/2021/)[: Language Modelling from Speech and Images](https://zerospeech.com/2021/) | 2021.05.01 - 2021.11.19 | -     |
+|        [WebQA Competition](https://webqna.github.io/)        | 2021.09.07 - 2099.06.01 | -     |
+
+
+
+## CVPR 2022 (TBD)
 
 | Competition | Date | Bonus |
 | :---------: | ---- | ----- |
 |             |      |       |
+
