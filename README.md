@@ -6,6 +6,7 @@
   - [Biendata](#biendata)
   - [DataCastle](#datacastle)
   - [和鲸](#和鲸)
+  - [Datafountain](#datafountain)
   - [NIPS 2021](#nips-2021)
   - [CVPR 2022 (TBD)](#cvpr-2022-tbd)
 
@@ -28,22 +29,22 @@
 
 
 
-|                         Competition                          | Date                    | Bonus |
-| :----------------------------------------------------------: | ----------------------- | ----- |
-| [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) | 2021.06.28 - 2021.09.27 | $10w  |
-| [G2Net Gravitational Wave Detection](https://www.kaggle.com/c/g2net-gravitational-wave-detection) | 2021.06.30 - 2021.09.29 | $1.5w |
-| [Tabular Playground Series - Sep 2021](https://www.kaggle.com/c/tabular-playground-series-sep-2021) | 2021.09.01 - 2021.09.30 | -     |
-| [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification) | 2021.07.13 - 2021.10.25 | $3w   |
-| [NFL Health & Safety - Helmet Assignment](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment) | 2021.08.10 - 2021.11.02 | $10w  |
-| [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) | 2021.09.22 - 2021.11.03 | $7.5k |
-| [LearnPlatform COVID-19 Impact on Digital Learning](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning) | 2021.08.02 - 2021.11.11 | $2w   |
-| [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering) | 2021.08.11 - 2021.11.15 | $1w   |
-| [Google Landmark Recognition 2021](https://www.kaggle.com/c/landmark-recognition-2021/overview/timeline) | 2021.08.10 - 2021.12.08 | -     |
-| [Google Landmark Retrieval 2021](https://www.kaggle.com/c/landmark-retrieval-2021) | 2021.08.10 - 2021.12.08 | -     |
-| [Wikipedia - Image/Caption Matching](https://www.kaggle.com/c/wikipedia-image-caption) | 2021.09.13 - 2021.12.09 | -     |
-|        [Lux AI](https://www.kaggle.com/c/lux-ai-2021)        | 2021.08.16 - 2021.12.21 | $1w   |
-| [NFL Big Data Bowl 2022](https://www.kaggle.com/c/nfl-big-data-bowl-2022) | 2021.09.23 - 2022.01.06 | $10w  |
-| [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score) | 2021.09.23 - 2022.01.13 | $2.5w |
+|                         Competition                          | Date                        | Bonus |
+| :----------------------------------------------------------: | --------------------------- | ----- |
+| [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction) | ~~2021.06.28 - 2021.09.27~~ | $10w  |
+| [G2Net Gravitational Wave Detection](https://www.kaggle.com/c/g2net-gravitational-wave-detection) | 2021.06.30 - 2021.09.29     | $1.5w |
+| [Tabular Playground Series - Sep 2021](https://www.kaggle.com/c/tabular-playground-series-sep-2021) | 2021.09.01 - 2021.09.30     | -     |
+| [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification) | 2021.07.13 - 2021.10.25     | $3w   |
+| [NFL Health & Safety - Helmet Assignment](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment) | 2021.08.10 - 2021.11.02     | $10w  |
+| [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction) | 2021.09.22 - 2021.11.03     | $7.5k |
+| [LearnPlatform COVID-19 Impact on Digital Learning](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning) | 2021.08.02 - 2021.11.11     | $2w   |
+| [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering) | 2021.08.11 - 2021.11.15     | $1w   |
+| [Google Landmark Recognition 2021](https://www.kaggle.com/c/landmark-recognition-2021/overview/timeline) | 2021.08.10 - 2021.12.08     | -     |
+| [Google Landmark Retrieval 2021](https://www.kaggle.com/c/landmark-retrieval-2021) | 2021.08.10 - 2021.12.08     | -     |
+| [Wikipedia - Image/Caption Matching](https://www.kaggle.com/c/wikipedia-image-caption) | 2021.09.13 - 2021.12.09     | -     |
+|        [Lux AI](https://www.kaggle.com/c/lux-ai-2021)        | 2021.08.16 - 2021.12.21     | $1w   |
+| [NFL Big Data Bowl 2022](https://www.kaggle.com/c/nfl-big-data-bowl-2022) | 2021.09.23 - 2022.01.06     | $10w  |
+| [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score) | 2021.09.23 - 2022.01.13     | $2.5w |
 
 ## Drivendata
 
@@ -82,26 +83,42 @@
 
 
 
-## NIPS 2021
+## [Datafountain](https://www.datafountain.cn/competitions)
 
 |                         Competition                          | Date                    | Bonus |
 | :----------------------------------------------------------: | ----------------------- | ----- |
-| [Learning By Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality](http://learningbydoingcompetition.github.io/) | 2021.07.06 - 2021.09.26 | $6k   |
-| [NeurIPS 2021 BEETL Competition: Benchmarks for EEG Transfer Learning](https://beetl.ai/introduction) | 2021.07.09 - 2021.10.01 | -     |
-| [MetaDL: Few Shot Learning Competition with Novel Datasets from Practical Domains](https://metalearning.chalearn.org/) | 2021.08.02 - 2021.10.02 | $2k   |
-| [Visual Domain Adaptation Challenge](http://ai.bu.edu/visda-2021/) | 2021.06.23 - 2021.10.10 | $2k   |
-| [Traffic4cast 2021 – Temporal and Spatial Few-Shot Transfer Learning in Traffic Map Movie Forecasting](https://www.iarai.ac.at/traffic4cast/) | 2021.06.15 - 2021.10.14 | €2.8w |
-| [Diamond: A MineRL Competition on Training Sample-Efficient Agents](https://www.aicrowd.com/challenges/neurips-2021-minerl-competition) | 2021.06.09 - 2021.10.15 | -     |
-| [BASALT: A MineRL Competition on Solving Human-Judged Tasks](https://minerl.io/basalt/) | 2021.07.07 - 2021.10.15 | $1.1w |
-|    [The NetHack Challenge](https://nethackchallenge.com/)    | 2021.06.09 - 2021.10.15 | $2w   |
-| [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/) | 2021.07.01 - 2021.10.21 | -     |
-| [Billion-Scale Approximate Nearest Neighbor Search Challenge](http://big-ann-benchmarks.com/) | 2021.07.11 - 2021.10.22 | -     |
-| [IGLU: Interactive Grounded Language Understanding in a Collaborative Environment](https://www.iglu-contest.net/) | 2021.07.26 - 2021.10.22 | $1.4w |
-| [Image similarity challenge](https://sites.google.com/view/isc2021) | 2021.06.01 - 2021.10.27 | $20w  |
-| [HEAR 2021: Holistic Evaluation of Audio Representations](https://neuralaudio.ai/hear2021-holistic-evaluation-of-audio-representations.html) | 2021.05.10 - 2021.10.31 | -     |
-| [Shifts Challenge: Robustness and Uncertain­ty under Real-World Distributional Shift](https://research.yandex.com/shifts) | 2021.07.20 - 2021.10.31 | $9k   |
-| [Enhanced Zero-Resource Speech Challenge 2021](https://zerospeech.com/2021/)[: Language Modelling from Speech and Images](https://zerospeech.com/2021/) | 2021.05.01 - 2021.11.19 | -     |
-|        [WebQA Competition](https://webqna.github.io/)        | 2021.09.07 - 2099.06.01 | -     |
+| [千言-问题匹配鲁棒性评测](https://www.datafountain.cn/competitions/516) | 2021.09.16 - 2021.11.23 | ¥5w   |
+| [基于飞桨实现花样滑冰选手骨骼点动作识别](https://www.datafountain.cn/competitions/519) | 2021.09.16 - 2021.11.23 | ¥10w  |
+| [浙江省未来五年教育基础设施数量规划容量预测分析](https://www.datafountain.cn/competitions/521) | 2021.09.16 - 2021.11.23 | ¥2w   |
+| [大规模金融仿真图数据中金融交易环路查询的设计与性能优化](https://www.datafountain.cn/competitions/532) | 2021.09.16 - 2021.11.23 | ¥5w   |
+| [openLooKeng跨域数据分析性能提升](https://www.datafountain.cn/competitions/527) | 2021.09.16 - 2021.11.23 | ¥5w   |
+| [POI名称生成](https://www.datafountain.cn/competitions/522)  | 2021.09.16 - 2021.11.23 | ¥5w   |
+| [基于UEBA的用户上网异常行为分析](https://www.datafountain.cn/competitions/520) | 2021.09.16 - 2021.11.23 | ¥5w   |
+| [个贷违约预测](https://www.datafountain.cn/competitions/530) | 2021.09.16 - 2021.11.23 | ¥5w   |
+| [产品评论观点提取](https://www.datafountain.cn/competitions/529) | 2021.09.16 - 2021.11.23 | ¥5w   |
+| [基于MindSpore AI框架实现零售商品识别](https://www.datafountain.cn/competitions/528) | 2021.09.16 - 2021.11.23 | ¥5w   |
+| [剧本角色情感识别](https://www.datafountain.cn/competitions/518) | 2021.09.16 - 2021.11.23 | ¥4w   |
+
+## NIPS 2021
+
+|                         Competition                          | Date                        | Bonus |
+| :----------------------------------------------------------: | --------------------------- | ----- |
+| [Learning By Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality](http://learningbydoingcompetition.github.io/) | ~~2021.07.06 - 2021.09.26~~ | $6k   |
+| [NeurIPS 2021 BEETL Competition: Benchmarks for EEG Transfer Learning](https://beetl.ai/introduction) | 2021.07.09 - 2021.10.01     | -     |
+| [MetaDL: Few Shot Learning Competition with Novel Datasets from Practical Domains](https://metalearning.chalearn.org/) | 2021.08.02 - 2021.10.02     | $2k   |
+| [Visual Domain Adaptation Challenge](http://ai.bu.edu/visda-2021/) | 2021.06.23 - 2021.10.10     | $2k   |
+| [Traffic4cast 2021 – Temporal and Spatial Few-Shot Transfer Learning in Traffic Map Movie Forecasting](https://www.iarai.ac.at/traffic4cast/) | 2021.06.15 - 2021.10.14     | €2.8w |
+| [Diamond: A MineRL Competition on Training Sample-Efficient Agents](https://www.aicrowd.com/challenges/neurips-2021-minerl-competition) | 2021.06.09 - 2021.10.15     | -     |
+| [BASALT: A MineRL Competition on Solving Human-Judged Tasks](https://minerl.io/basalt/) | 2021.07.07 - 2021.10.15     | $1.1w |
+|    [The NetHack Challenge](https://nethackchallenge.com/)    | 2021.06.09 - 2021.10.15     | $2w   |
+| [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/) | 2021.07.01 - 2021.10.21     | -     |
+| [Billion-Scale Approximate Nearest Neighbor Search Challenge](http://big-ann-benchmarks.com/) | 2021.07.11 - 2021.10.22     | -     |
+| [IGLU: Interactive Grounded Language Understanding in a Collaborative Environment](https://www.iglu-contest.net/) | 2021.07.26 - 2021.10.22     | $1.4w |
+| [Image similarity challenge](https://sites.google.com/view/isc2021) | 2021.06.01 - 2021.10.27     | $20w  |
+| [HEAR 2021: Holistic Evaluation of Audio Representations](https://neuralaudio.ai/hear2021-holistic-evaluation-of-audio-representations.html) | 2021.05.10 - 2021.10.31     | -     |
+| [Shifts Challenge: Robustness and Uncertain­ty under Real-World Distributional Shift](https://research.yandex.com/shifts) | 2021.07.20 - 2021.10.31     | $9k   |
+| [Enhanced Zero-Resource Speech Challenge 2021](https://zerospeech.com/2021/)[: Language Modelling from Speech and Images](https://zerospeech.com/2021/) | 2021.05.01 - 2021.11.19     | -     |
+|        [WebQA Competition](https://webqna.github.io/)        | 2021.09.07 - 2099.06.01     | -     |
 
 
 
